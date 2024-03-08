@@ -1,0 +1,27 @@
+.hidden {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.5s ease-out;
+}
+
+.chapter,
+.section__title {
+  opacity: 0;
+  transform: translateY(40px);
+  transition: opacity 0.5s, transform 0.5s;
+}
+
+.visible {
+  max-height: 1700px;
+  transition: max-height 0.5s ease-in;
+}
+
+.gallery {
+  transition: transform 0.5s ease-in-out;
+}
+
+@media (max-width: 768px) {
+  .visible {
+    max-height: 400vh;
+  }
+}

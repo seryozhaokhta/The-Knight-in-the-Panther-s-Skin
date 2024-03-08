@@ -1,0 +1,29 @@
+.navigationButtons {
+  position: relative;
+  display: flex;
+  align-items: center;
+  --circle-left: 0px;
+}
+
+.enButton,
+.geButton {
+  transition: opacity 0.3s ease;
+  opacity: 0.5;
+}
+
+.enButton.active,
+.geButton.active {
+  opacity: 1;
+}
+
+.circleIcon {
+  position: absolute;
+  bottom: -10px;
+  margin-left: 10px;
+  left: var(--circle-left);
+  transition: left 0.3s ease;
+  width: 6px;
+  height: 6px;
+  background: url("/icons/circleIcon.svg") no-repeat center center;
+  background-size: contain;
+}

@@ -1,0 +1,29 @@
+.section__title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #ffffff50;
+  margin-left: 65px; 
+}
+
+.chapter {
+  display: flex;
+  align-items: flex-end;
+  margin: 14px 0;
+}
+
+.number {
+  font-size: 14px;
+  font-weight: 200;
+  width: 50px;
+  text-align: right;
+  display: inline-block;
+  opacity: 0.4;
+}
+
+.title {
+  display: inline-block;
+  text-align: left;
+  margin-left: 14px;
+}
+
