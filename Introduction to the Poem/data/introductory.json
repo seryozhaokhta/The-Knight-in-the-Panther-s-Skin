@@ -1,0 +1,205 @@
+{
+  "contents": [
+    {
+      "id": "intro",
+      "title_en": "INTRODUCTORY QUATRAINS",
+      "title_ge": "დასაწყისი"
+    }
+  ],
+  "stanzas": [
+    {
+      "id": "stanza1",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>1</span> რომელმან <span class='tooltip-trigger'>შექმნა</span> სამყარო ძალითა მით ძლიერითა,<br>ზეგარდმო არსნი <span class='tooltip-trigger'>სულითა</span> ყვნა ზეცით მონაბერითა,<br>ჩვენ, კაცთა, მოგვცა ქვეყანა, გვაქვს უთვალავი ფერითა,<br>მისგან არს ყოვლი ხელმწიფე <span class='tooltip-trigger'>სახითა</span> მის მიერითა.",
+          "english": "<span class='stanza-number'>1</span> He who <span class='tooltip-trigger'>created</span> the firmament, by that mighty power<br>made beings inspired from on high with <span class='tooltip-trigger'>souls</span> celestial;<br>to us men He has given the world, infinite in variety we possess it;<br>from Him is every monarch in His <span class='tooltip-trigger'>likeness</span>.",
+          "tooltip_en": [
+            { "word": "Created", "definition": "Brought into existence" },
+            { "word": "Souls", "definition": "Spiritual essences" },
+            { "word": "Likeness", "definition": "Similarity in appearance" }
+          ],
+          "tooltip_ge": [
+            { "word": "შექმნა", "definition": "შექმნილი" },
+            { "word": "სული", "definition": "სულიერი არსება" },
+            { "word": "სახე", "definition": "მსგავსება" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza2",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>2</span> ჰე, ღმერთო ერთო, შენ <span class='tooltip-trigger'>შეჰქმენ</span> <span class='tooltip-trigger'>სახე</span> ყოვლისა ტანისა,<br>შენ დამიფარე, ძლევა მეც დათრგუნვად მე <span class='tooltip-trigger'>სატანისა</span>,<br>მომეც მიჯნურთა სურვილი, სიკვდიდმდე გასატანისა,<br>ცოდვათა შესუბუქება, მუნ თანა წასატანისა.",
+          "english": "<span class='stanza-number'>2</span> O one God! Thou didst <span class='tooltip-trigger'>create</span> the <span class='tooltip-trigger'>face</span> of every form!<br>Shield me, give me mastery to trample on <span class='tooltip-trigger'>Satan</span>,<br>give me the longing of lovers lasting even unto death,<br>lightening (of the burden) of sins I must bear thither with me.",
+          "tooltip_en": [
+            { "word": "Created", "definition": "Brought into existence" },
+            { "word": "Face", "definition": "Appearance, image" },
+            { "word": "Satan", "definition": "The devil" }
+          ],
+          "tooltip_ge": [
+            { "word": "შეჰქმენ", "definition": "შექმნილი" },
+            { "word": "სახე", "definition": "გარეგნობა" },
+            { "word": "სატანი", "definition": "დემონი" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza3",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>3</span> ვის ჰშვენის, — <span class='tooltip-trigger'>ლომსა</span>, — ხმარება შუბისა, ფარ-შიმშერისა,<br> — მეფისა მზის თამარისა, ღაწვ-ბადახშ, თმა-გიშერისა, — <br>მას, არა ვიცი, შევჰკადრო შესხმა ხოტბისა, შე, რისა?<br>მისთა მჭვრეტელთა ყანდისა მირთმა ხამს მართ, მი, შერისა.",
+          "english": "<span class='stanza-number'>3</span> Of that <span class='tooltip-trigger'>lion</span> whom the use of lance, shield and sword adorns,<br>of the king, the sun T'hamara, the ruby-cheeked, the jet-haired,<br>of her I know not how I shall dare to sing the manifold praise;<br>they who look upon her must offer her the sweets for which she hungers.",
+          "tooltip_en": [
+            { "word": "Lion", "definition": "A symbol of strength and courage" }
+          ],
+          "tooltip_ge": [
+            { "word": "ლომი", "definition": "ძალისა და სიმამაცის სიმბოლო" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza4",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>4</span> თამარს ვაქებდეთ მეფესა <span class='tooltip-trigger'>სისხლისა</span> ცრემლ-დათხეული,<br>ვთქვენი ქებანი ვისნი მე არ-ავად გამორჩეული.<br>მელნად ვიხმარე <span class='tooltip-trigger'>გიშრის</span> ტბა და კალმად მე ნა რხეული,<br>ვინცა ისმინოს, დაესვას ლახვარი გულსა ხეული.",
+          "english": "<span class='stanza-number'>4</span> By shedding <span class='tooltip-trigger'>tears</span> of blood we praise King T'hamara,<br>whose praises I, not ill-chosen, have told forth.<br>For ink I have used a lake of <span class='tooltip-trigger'>jet</span>, and for pen a pliant crystal.<br>Whoever hears, a jagged spear will pierce his heart!",
+          "tooltip_en": [
+            { "word": "Tears", "definition": "Crying" },
+            { "word": "Jet", "definition": "A form of black coal" }
+          ],
+          "tooltip_ge": [
+            { "word": "სისხლი", "definition": "ცრემლი" },
+            { "word": "გიშრი", "definition": "შავი ქვანახშირი" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza5",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>5</span> მიბრძანეს მათად საქებრად თქმა ლექსებისა ტკბილისა,<br>ქება წარბთა და წამწამთა, თმათა და <span class='tooltip-trigger'>ბაგე</span>-კბილისა,<br><span class='tooltip-trigger'>ბროლ</span>-ბადახშისა თლილისა, მის მიჯრით მიწყობილისა.<br>გასტეხს ქვასაცა მაგარსა გრდემლი ტყვიისა ლბილისა.",
+          "english": "<span class='stanza-number'>5</span> She bade me indite sweet verses in her praise,<br>laud her eyebrows and lashes, her hair, her <span class='tooltip-trigger'>lips</span> and teeth,<br><span class='tooltip-trigger'>cut</span> crystal and ruby arrayed in ranks.<br>An anvil of soft lead breaks even hard stone.",
+          "tooltip_en": [
+            { "word": "Lips", "definition": "Mouth" },
+            { "word": "Cut", "definition": "Carved, faceted" }
+          ],
+          "tooltip_ge": [
+            { "word": "ბაგე", "definition": "ტუჩები" },
+            { "word": "ბროლი", "definition": "ნაჭდევი" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza6",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>6</span> აწ ენა მინდა გამოთქმად, <span class='tooltip-trigger'>გული</span> და ხელოვანება, — <br><span class='tooltip-trigger'>ძალი</span> მომეც და შეწევნა შენგნით მაქვს, მივსცე გონება;<br>მით შევეწივნეთ ტარიელს, ტურფადცა უნდა ხსენება,<br>მათ სამთა <span class='tooltip-trigger'>გმირთა</span> მნათობთა სჭირს ერთმანერთის მონება.",
+          "english": "<span class='stanza-number'>6</span> Now want I <span class='tooltip-trigger'>tongue</span>, <span class='tooltip-trigger'>heart</span> and skill for utterance! Grant me <span class='tooltip-trigger'>strength</span>!<br>And if I have aid from thee I shall have understanding, so may we succour Tariel;<br>tenderly indeed should we cherish his memory<br>and that of the three <span class='tooltip-trigger'>starlike</span> heroes wont to serve one another.",
+          "tooltip_en": [
+            { "word": "Tongue", "definition": "Speech" },
+            { "word": "Heart", "definition": "Emotions" },
+            { "word": "Strength", "definition": "Power" },
+            { "word": "Heroes", "definition": "Brave warriors" },
+            { "word": "Starlike", "definition": "Bright, shining" }
+          ],
+          "tooltip_ge": [
+            { "word": "გული", "definition": "ემოცია" },
+            { "word": "ძალი", "definition": "ძალა" },
+            { "word": "გმირი", "definition": "მეომარი" },
+            { "word": "მნათობი", "definition": "ბრწყინვალე" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza7",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>7</span> მო, დავსხდეთ, ტარიელისთვის <span class='tooltip-trigger'>ცრემლი</span> გვდის შეუშრობელი;<br>მისებრი მართ დაბადებით ვინმცა ყოფილა შობილი!<br>დავჯე, რუსთველმან გავლექსე, მისთვის გულს <span class='tooltip-trigger'>ლახვარ</span>-სობილი,<br>აქამდის ამბად ნათქვამი, აწ მარგალიტი წყობილი.",
+          "english": "<span class='stanza-number'>7</span> Come, sit ye down, ye who have been born under the same fate;<br>let us shed a never-drying <span class='tooltip-trigger'>tear</span> for Tariel's sake.<br>I sat me down, I, Rust'haveli, indited a poem, my heart pierced with a <span class='tooltip-trigger'>lance</span>.<br>Hitherto the tale has been told as a tale; now is it a pearl (of) measured (poesy).",
+          "tooltip_en": [
+            { "word": "Tears", "definition": "Crying" },
+            { "word": "Lance", "definition": "A spear-like weapon" }
+          ],
+          "tooltip_ge": [
+            { "word": "ცრემლი", "definition": "ტირილი" },
+            { "word": "ლახვარი", "definition": "ლახტი, სასროლი იარაღი" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza8",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>8</span> მე, რუსთველი ხელობითა, ვიქმ საქმესა ამა დარი:<br>ვის ჰმორჩილობს <span class='tooltip-trigger'>ჯარი</span> სპათა, მისთვის ვხელობ, მისთვის მკვდარი;<br>დავუძლურდი, მიჯნურთათვის კვლა წამალი არსით არი,<br>ანუ მომცეს <span class='tooltip-trigger'>განკურნება</span>, ანუ მიწა მე სამარი.",
+          "english": "<span class='stanza-number'>8</span> To a lover, beauty, glorious beauty,<br>wisdom, wealth, generosity, youth and leisure are fitting;<br>he must be eloquent, intelligent, patient, an overcomer of mighty <span class='tooltip-trigger'>adversaries</span>;<br>who has not all these qualities lacks the character of a lover.",
+          "tooltip_en": [
+            { "word": "Army", "definition": "Military forces" },
+            { "word": "Healing", "definition": "Cure, remedy" },
+            { "word": "Adversaries", "definition": "Enemies, opponents" }
+          ],
+          "tooltip_ge": [
+            { "word": "ჯარი", "definition": "სამხედრო ძალები" },
+            { "word": "განკურნება", "definition": "განკურნება" },
+            { "word": "მტერი", "definition": "მოწინააღმდეგე" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza9",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>9</span> ესე ამბავი სპარსული, ქართულად ნათარგმანები,<br>ვით მარგალიტი ობოლი, ხელის-ხელ საგოგმანები,<br>ვპოვე და ლექსად გარდავთქვი, საქმე ვქმენ საჭოჭმანები,<br>ჩემმან ხელ-მქმნელმან დამმართოს <span class='tooltip-trigger'>ლაღმან</span> და <span class='tooltip-trigger'>ლამაზმან</span> ნები.",
+          "english": "<span class='stanza-number'>9</span> Love is tender, a thing hard to be known. True love is something apart from <span class='tooltip-trigger'>lust</span>,<br>and cannot be likened thereto; it is one thing;<br>lust is quite another thing, and between them lies a broad <span class='tooltip-trigger'>boundary</span>;<br>in no way do they mingle — hear my saying!",
+          "tooltip_en": [
+            { "word": "Luck", "definition": "Good fortune" },
+            { "word": "Beauty", "definition": "Loveliness" },
+            { "word": "Lust", "definition": "Sexual desire" },
+            { "word": "Boundary", "definition": "Dividing line" }
+          ],
+          "tooltip_ge": [
+            { "word": "ლაღი", "definition": "ბედნიერება" },
+            { "word": "ლამაზი", "definition": "სილამაზე" },
+            { "word": "ვნება", "definition": "სექსუალური სურვილი" },
+            { "word": "ზღვარი", "definition": "საზღვარი" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza10",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>10</span> თვალთა, მისგან უნათლოთა, ენატრამცა ახლად ჩენა;<br>აჰა, <span class='tooltip-trigger'>გული</span> გამიჯნურდა, მიჰხვდომია ველთა რბენა!<br>მიაჯეთ ვინ, ხორცთა დაწვა კმა არს, მისცეს სულთა <span class='tooltip-trigger'>ლხენა</span>.<br>სამთა ფერთა საქებელთა ლამის ლექსთა უნდა ვლენა.",
+          "english": "<span class='stanza-number'>10</span> The lover must be constant, not lewd, impure and faithless;<br>when he is far from his beloved he must heave sigh upon sigh;<br>his <span class='tooltip-trigger'>heart</span> must be fixed on one from whom he endures wrath or sorrow if need be.<br>I hate heartless love — embracing, kissing, noisy bussing.",
+          "tooltip_en": [
+            { "word": "Heart", "definition": "Emotions" },
+            { "word": "Joy", "definition": "Happiness, delight" }
+          ],
+          "tooltip_ge": [
+            { "word": "გული", "definition": "ემოცია" },
+            { "word": "ლხენა", "definition": "სიხარული" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "stanza11",
+      "lines": [
+        {
+          "georgian": "<span class='stanza-number'>11</span> რაცა ვის რა <span class='tooltip-trigger'>ბედმან</span> მისცეს, დასჯერდეს და მას უბნობდეს:<br>მუშა მიწყივ მუშაკობდეს, მეომარი გულოვნობდეს;<br>კვლა მიჯნურსა მიჯნურობა უყვარდეს და გამოსცნობდეს,<br>არცა ვისგან დაიწუნოს, არცა სხვათა უწუნობდეს.",
+          "english": "<span class='stanza-number'>11</span> With what <span class='tooltip-trigger'>Fate</span> gives to a man, therewithal should he be content, and so  speak of it.<br>The labourer should ever work, the warrior be brave.<br>So, also, should the lover love Love, and recognize it.<br>Who judges not will not be judged by others.",
+          "tooltip_en": [{ "word": "Fate", "definition": "Destiny" }],
+          "tooltip_ge": [{ "word": "ბედი", "definition": "ბედისწერა" }]
+        }
+      ]
+    }
+  ]
+}
