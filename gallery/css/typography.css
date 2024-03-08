@@ -1,0 +1,51 @@
+h1 {
+  font-size: 6em;
+  color: white;
+  margin-bottom: -50px;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 3.9em;
+}
+
+.geTitle h2 {
+  display: inline-flex;
+  gap: 0.025em;
+}
+
+.geTitle h2 span {
+  position: relative;
+  transition: transform 0.3s ease-out, color 0.3s ease-out,
+    opacity 0.3s ease-out;
+  cursor: pointer;
+  opacity: 0.3;
+}
+
+.geTitle h2 span:hover {
+  color: #fff;
+  opacity: 1;
+}
+
+#vepkhi:hover + #istqao,
+#vepkhi:hover + #istqao + #sani,
+#istqao:hover + #sani {
+  transform: translateX(0.3em);
+}
+
+#sani:hover {
+  transform: translateX(0.3em);
+}
+
+.writing-date {
+  font-size: 1em;
+  color: #666;
+  margin-top: -35px;
+  font-style: italic;
+  text-align: right;
+}
+
+h3 {
+  font-size: 1em;
+  color: #666;
+}

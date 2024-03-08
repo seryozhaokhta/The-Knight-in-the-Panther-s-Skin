@@ -1,0 +1,37 @@
+.up-down-buttons {
+  position: fixed;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1010;
+  display: none;
+}
+
+.enButton,
+.geButton {
+  color: white;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.navigationButtons {
+  margin-bottom: -50px;
+}
+
+.upButton,
+.downButton {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.closeButton,
+.up-down-buttons {
+  display: none;
+}
+
+.image-viewer-active .closeButton,
+.image-viewer-active .up-down-buttons {
+  display: block;
+}

@@ -1,0 +1,11 @@
+@import "scrollbar.css";
+@import "animation.css";
+@import "typography.css";
+@import "buttons.css";
+
+body,
+html {
+  font-family: Helvetica, sans-serif;
+  background-color: black;
+  color: white;
+}

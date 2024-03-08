@@ -1,0 +1,29 @@
+#toggleToc {
+  background-color: transparent;
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#toggleToc:hover {
+  background-color: #1a1a1a;
+}
+
+#toggleToc:active {
+  transform: scale(0.95);
+}
+
+#toggleToc svg {
+  transition: transform 0.3s ease;
+  transform-origin: center;
+}
+
+.toggle-icon {
+  margin-left: 0.25em;
+}
