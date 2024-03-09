@@ -1,5 +1,3 @@
-// dataManager.js
-
 class DataManager {
   constructor(url, textContainer, tooltipManager) {
     this.url = url;
@@ -37,20 +35,15 @@ class DataManager {
   }
 
   createStanza(stanza) {
-    const stanzaHTML = stanza.lines
-      .map(
-        (line) => `
-    <div class="line">
-      <div class="english">${line.english}</div>
-      <div class="georgian">${line.georgian}</div>
-    </div>
-  `
-      )
-      .join("");
-
     const stanzaDiv = document.createElement("div");
     stanzaDiv.className = "stanza";
-    stanzaDiv.innerHTML = stanzaHTML;
+    stanza.lines.forEach((line) => {
+      const lineDiv = document.createElement("div");
+      lineDiv.className = "line";
+      this.createLine(lineDiv, line, "english", "tooltip_en");
+      this.createLine(lineDiv, line, "georgian", "tooltip_ge");
+      stanzaDiv.appendChild(lineDiv);
+    });
     this.textContainer.appendChild(stanzaDiv);
   }
 

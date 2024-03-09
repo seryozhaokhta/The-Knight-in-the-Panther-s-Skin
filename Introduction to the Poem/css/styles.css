@@ -69,13 +69,14 @@ html {
 .tooltip::after {
   content: "";
   position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
+  bottom: 100%;
+  left: 0;
+  margin-left: 0;
   border-width: 5px;
   border-style: solid;
-  border-color: #4e4e4e transparent transparent transparent;
+  border-color: transparent transparent #4e4e4e transparent;
 }
+
 
 .stanza-number {
   font-size: 14px;
@@ -88,10 +89,6 @@ html {
   border-bottom: 0.68px dotted #ff8800;
   cursor: help;
 }
-
-/* styles.css */
-
-/* Базовые стили не меняются */
 
 @media (max-width: 768px) {
   body,
