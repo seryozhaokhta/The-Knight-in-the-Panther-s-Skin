@@ -11,7 +11,3 @@ document.addEventListener("DOMContentLoaded", () => {
 
   dataManager.loadData();
 });
-<<<<<<< HEAD
-=======
-
->>>>>>> master
