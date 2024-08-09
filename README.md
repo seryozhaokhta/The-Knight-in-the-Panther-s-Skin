@@ -2,8 +2,6 @@
 
 An interactive digital experience of Shota Rustaveli's epic poem "The Knight in the Panther's Skin", featuring illustrations by Mihály Zichy, an immersive gallery, and bilingual text in both English translation and the original Georgian.
 
-![Interactive Experience](example.gif)
-
 ## About the Project
 
 This project aims to bring the classic work of Georgian literature to a wider audience through an engaging online platform. "The Knight in the Panther's Skin" is a 12th-century epic poem by Shota Rustaveli, which is considered a masterpiece of the Georgian Golden Age. This interactive version presents the full text in both English and Georgian, along with a gallery of illustrations by Mihály Zichy, enhancing the reader's experience.
