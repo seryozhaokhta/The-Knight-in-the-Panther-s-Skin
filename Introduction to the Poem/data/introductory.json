@@ -14,6 +14,7 @@
           "georgian": "<span class='stanza-number'>1</span> რომელმან <span class='tooltip-trigger'>შექმნა</span> სამყარო ძალითა მით ძლიერითა,<br>ზეგარდმო არსნი <span class='tooltip-trigger'>სულითა</span> ყვნა ზეცით მონაბერითა,<br>ჩვენ, კაცთა, მოგვცა ქვეყანა, გვაქვს უთვალავი ფერითა,<br>მისგან არს ყოვლი ხელმწიფე <span class='tooltip-trigger'>სახითა</span> მის მიერითა.",
           "english": "<span class='stanza-number'>1</span> He who <span class='tooltip-trigger'>created</span> the firmament, by that mighty power<br>made beings inspired from on high with <span class='tooltip-trigger'>souls</span> celestial;<br>to us men He has given the world, infinite in variety we possess it;<br>from Him is every monarch in His <span class='tooltip-trigger'>likeness</span>.",
           "tooltip_en": [
+<<<<<<< HEAD
             {
               "word": "Created (შექმნა)",
               "definition": "Brought into existence"
@@ -31,6 +32,16 @@
             },
             { "word": "სული (suli)", "definition": "Spiritual essences" },
             { "word": "სახე (sakhe)", "definition": "Similarity in appearance" }
+=======
+            { "word": "Created", "definition": "Brought into existence" },
+            { "word": "Souls", "definition": "Spiritual essences" },
+            { "word": "Likeness", "definition": "Similarity in appearance" }
+          ],
+          "tooltip_ge": [
+            { "word": "შექმნა", "definition": "შექმნილი" },
+            { "word": "სული", "definition": "სულიერი არსება" },
+            { "word": "სახე", "definition": "მსგავსება" }
+>>>>>>> master
           ]
         }
       ]

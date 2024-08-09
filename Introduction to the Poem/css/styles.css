@@ -69,12 +69,21 @@ html {
 .tooltip::after {
   content: "";
   position: absolute;
+<<<<<<< HEAD
   bottom: 100%;
   left: 0;
   margin-left: 0;
   border-width: 5px;
   border-style: solid;
   border-color: transparent transparent #4e4e4e transparent;
+=======
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #4e4e4e transparent transparent transparent;
+>>>>>>> master
 }
 
 .stanza-number {
@@ -89,6 +98,13 @@ html {
   cursor: help;
 }
 
+<<<<<<< HEAD
+=======
+/* styles.css */
+
+/* Базовые стили не меняются */
+
+>>>>>>> master
 @media (max-width: 768px) {
   body,
   html {

@@ -4,20 +4,32 @@ document.addEventListener("DOMContentLoaded", () => {
   const tooltipsData = {
     vepkhi: {
       title: "Vepkhi",
+<<<<<<< HEAD
       description:
         "This term historically refers to a variety of large wild cats, including panthers, tigers, or leopards. In modern interpretations, it is often associated with the tiger. In the context of Rustaveli's poem, «vepkhi» symbolizes the protagonist's fierce and majestic qualities, highlighting their strength, nobility, and the symbolic power of their appearance.",
+=======
+      description: "This term historically refers to a variety of large wild cats, including panthers, tigers, or leopards. In modern interpretations, it is often associated with the tiger. In the context of Rustaveli's poem, «vepkhi» symbolizes the protagonist's fierce and majestic qualities, highlighting their strength, nobility, and the symbolic power of their appearance.",
+>>>>>>> master
       link: "https://example.com/vepkhi",
     },
     istqao: {
       title: "Istqao",
+<<<<<<< HEAD
       description:
         "Meaning «skin» or «hide» in English, this word points to the very essence of the protagonist's defining feature — wearing the skin of a «vepkhi». It emphasizes the theme of identity and distinction, setting the protagonist apart from others not just by their actions but also by their unique attire that holds both literal and symbolic significance.",
+=======
+      description: "Meaning «skin» or «hide» in English, this word points to the very essence of the protagonist's defining feature — wearing the skin of a «vepkhi». It emphasizes the theme of identity and distinction, setting the protagonist apart from others not just by their actions but also by their unique attire that holds both literal and symbolic significance.",
+>>>>>>> master
       link: "https://example.com/istqao",
     },
     sani: {
       title: "Sani",
+<<<<<<< HEAD
       description:
         "This suffix translates to «one who wears» or «characterized by». When attached to «istqao», it forms «istqaosani», meaning «one who wears the skin» or «one characterized by the skin». It reinforces the connection between the protagonist and their iconic attire, underlining their role as a figure of valor and distinctiveness among peers.",
+=======
+      description: "This suffix translates to «one who wears» or «characterized by». When attached to «istqao», it forms «istqaosani», meaning «one who wears the skin» or «one characterized by the skin». It reinforces the connection between the protagonist and their iconic attire, underlining their role as a figure of valor and distinctiveness among peers.",
+>>>>>>> master
       link: "https://example.com/sani",
     },
     // Указываем путь к иконке для всех тултипов
@@ -65,3 +77,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
 });
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
