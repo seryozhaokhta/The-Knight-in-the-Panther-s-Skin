@@ -8,8 +8,8 @@ class TooltipManager {
   }
 
   showTooltip(tooltip, element) {
-    const { word, definition } = tooltip; // Деструктуризация объекта тултипа
-    this.tooltip.innerText = `${word}: ${definition}`; // Отображаем слово и определение
+    const { word, definition } = tooltip;
+    this.tooltip.innerText = `${word}: ${definition}`;
     const rect = element.getBoundingClientRect();
     this.tooltip.style.left = `${rect.left + window.scrollX}px`;
     this.tooltip.style.top = `${rect.bottom + window.scrollY}px`;

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gallery Project</title>
+    <link rel="stylesheet" href="/gallery/css/scrollbar.css" />
+    <link rel="stylesheet" href="/gallery/css/languageSwitcher.css" />
+    <link rel="stylesheet" href="/gallery/css/gallery.css" />
+    <link rel="stylesheet" href="/gallery/css/imageViewer.css" />
+    <link rel="stylesheet" href="/gallery/css/navigationButtons.css" />
+    <link rel="stylesheet" href="/gallery/css/typography.css" />
+    <link rel="stylesheet" href="/gallery/css/tooltips.css" />
+    <link rel="stylesheet" href="/gallery/css/main.css" />
+    <link rel="stylesheet" href="/content/css/main.css" />
+  </head>
+  <body>
+    <header>
+      <div class="navigationButtons">
+        <button class="enButton active">
+          <span>en</span>
+        </button>
+        <button class="geButton">
+          <span>ge</span>
+        </button>
+        <div class="circleContainer">
+          <img src="/gallery/icons/circleIcon.svg" alt="" class="circleIcon" />
+        </div>
+      </div>
+    </header>
+    <main>
+      <h1>
+        The Knight
+        <br />
+        in the Panther's Skin
+      </h1>
+      <div class="geTitle">
+        <h2>
+          <span id="vepkhi" class="vepkhi">ვეფხ</span>
+          <span id="istqao" class="istqao">ისტყაო</span>
+          <span id="sani" class="sani">სანი</span>
+        </h2>
+      </div>
+      <h3>Shota Rustaveli</h3>
+      <div class="writing-date">twelfth century</div>
+      <button id="toggleToc">
+        Content
+        <svg
+          class="toggle-icon"
+          width="20"
+          height="20"
+          viewBox="0 0 37 37"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M2.10657 18.5H34.6335"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+          />
+          <path
+            d="M18.5 2.10638V34.6333"
+            stroke="white"
+            stroke-width="3"
+            stroke-linecap="round"
+          />
+        </svg>
+      </button>
+      <div id="tableOfContents" class="hidden"></div>
+      <button class="closeButton">
+        <img src="/gallery/icons/closeIcon.svg" alt="" />
+      </button>
+      <div class="up-down-buttons">
+        <button class="upButton">
+          <img src="/gallery/icons/upbutton.svg" alt="" />
+        </button>
+        <button class="downButton">
+          <img src="/gallery/icons/downbutton.svg" alt="" />
+        </button>
+      </div>
+      <div class="gallery"></div>
+      <div class="overlay"></div>
+      <div class="image-viewer"></div>
+      <h3>Illustrations by Mihály Zichy</h3>
+    </main>
+    <script type="module" src="/content/js/main.js"></script>
+    <script src="/gallery/js/main.js"></script>
+    <script src="/gallery/js/galleryAnimation.js"></script>
+    <script src="/gallery/js/tooltips.js"></script>
+    <script src="/gallery/js/ImageLoader.js"></script>
+    <script src="/gallery/js/ImageViewer.js"></script>
+    <script src="/gallery/js/GalleryManager.js"></script>
+    <script src="/gallery/js/languageSwitcher.js"></script>
+  </body>
+</html>

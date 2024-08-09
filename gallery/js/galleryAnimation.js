@@ -1,3 +1,0 @@
-// galleryAnimation.js 
-
-// пока пустой 

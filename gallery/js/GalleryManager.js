@@ -3,7 +3,7 @@
 class GalleryManager {
   constructor() {
     this.images = [];
-    this.currentView = "gallery"; // 'gallery' or 'viewer'
+    this.currentView = "gallery";
     this.imageViewer = new ImageViewer(this);
   }
 
@@ -18,7 +18,7 @@ class GalleryManager {
     galleryContainer.innerHTML = "";
     this.images.forEach((image, index) => {
       const imgElement = document.createElement("img");
-      imgElement.src = image.src; // Теперь это будет например 'img/1.png'
+      imgElement.src = image.src;
       imgElement.alt = image.title;
       imgElement.classList.add("gallery-image");
       imgElement.addEventListener("click", () => this.switchToViewer(index));
@@ -47,5 +47,4 @@ class GalleryManager {
       }
     });
   }
-  
 }
